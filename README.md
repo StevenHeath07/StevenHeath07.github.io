@@ -4,7 +4,7 @@
  
 ## 🚀 About Me
  
-Hi!, I'm Steven Heath, I am a 17 year old college student currently studying at the 12 Quays campus at Wirral Met College. I started learning about programming at the age of 14 when I was introduced to Python, ever since then I have wanted to learn more about programming and improve. I am currently in my second year for my course which is T-Level Digital Production, Design and Development. I'm very interested in website design and would like to pursue a career in the web design department.
+Hi!, I'm Steven Heath, I am a 17 year old college student currently studying at the 12 Quays campus at Wirral Met College, UK. I started learning about programming at the age of 14 when I was introduced to Python, ever since then I have wanted to learn more about programming and improve. I am currently in my second year for my course which is T-Level Digital Production, Design and Development. I'm very interested in website design and would like to pursue a career in the web design department.
  
 ## 🎓 Education
 
