@@ -24,4 +24,4 @@ Currently studying for T-Level Digital Production, Design and Development (Year 
  
 ## 📫 Contact
 Feel free to reach out
-- Email: [30177156@wmc.ac.uk] (mailto:30177156@wmc.ac.uk)
+- Email: [30177156@wmc.ac.uk]
